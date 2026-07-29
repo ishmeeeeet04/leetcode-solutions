@@ -1,45 +1,66 @@
-# leetcode-solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 💻 LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0009-palindrome-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0125-valid-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0125-valid-palindrome) |
-## String
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0125-valid-palindrome) |
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
-## Binary Search
-|  |
-| ------- |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
-## Greedy
-|  |
-| ------- |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
-## Sliding Window
-|  |
-| ------- |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
-## Sorting
-|  |
-| ------- |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
-## Prefix Sum
-|  |
-| ------- |
-| [1838-frequency-of-the-most-frequent-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
-<!---LeetCode Topics End-->
+Welcome! 👋
+
+This repository contains my accepted LeetCode solutions as part of my continuous Data Structures & Algorithms (DSA) practice.
+
+## 👩‍💻 About Me
+
+Hi, I'm **Ishmeet Kaur**, a B.Tech student passionate about Artificial Intelligence, Cybersecurity, and Software Development.
+
+I maintain this repository to strengthen my problem-solving skills, write clean code, and prepare for technical interviews.
+
+---
+
+## 🎯 Goals
+
+- Solve LeetCode problems consistently.
+- Master Data Structures & Algorithms.
+- Improve coding efficiency.
+- Prepare for Software Engineering & AI/ML roles.
+
+---
+
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- Hash Tables
+- Linked Lists
+- Stack & Queue
+- Trees & Binary Trees
+- Binary Search
+- Recursion
+- Dynamic Programming
+- Graphs
+- Greedy Algorithms
+- Backtracking
+
+---
+
+## 💻 Languages Used
+
+- Java ☕
+  
+
+---
+
+## 📂 Repository Structure
+
+```
+Problem Name/
+│── Solution.java
+│── README.md (if required)
+```
+
+---
+
+## 🌱 Learning Philosophy
+
+> "Consistency beats intensity."
+
+Every solution in this repository represents a step toward becoming a better software engineer.
+
+---
+
+⭐ Thanks for visiting my repository!
