@@ -45,15 +45,7 @@ I maintain this repository to strengthen my problem-solving skills, write clean 
 
 ---
 
-## 📂 Repository Structure
 
-```
-Problem Name/
-│── Solution.java
-│── README.md (if required)
-```
-
----
 
 ## 🌱 Learning Philosophy
 
