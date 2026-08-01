@@ -68,6 +68,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
