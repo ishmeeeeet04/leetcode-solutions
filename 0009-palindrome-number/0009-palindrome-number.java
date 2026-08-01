@@ -1,23 +1,25 @@
 class Solution {
-    public boolean isPalindrome(int n) {
-        int temp=n;
+    public boolean isPalindrome(int x) {
         int rev=0;
-        while(temp>0)
-        {
-            int rem=temp%10;
-        rev=(rev*10)+rem;
-        temp=temp/10;
+        if (x < 0) {
+            return false;
         }
-        if(rev==n)
-        {
-            System.out.println("palindrome");
-            return true;
+        int org=x;
+        while (x!=0){
+            
+            int rem = x%10;
+            x=x/10;
+            rev = rev*10+rem;
 
         }
-            else
-            {
-            System.out.println("not");
-            return false;
-            }
+        if(rev==org)
+        { 
+            return true;
+}
+else{
+    return false;
+}
     }
-    }
+
+}
+    
