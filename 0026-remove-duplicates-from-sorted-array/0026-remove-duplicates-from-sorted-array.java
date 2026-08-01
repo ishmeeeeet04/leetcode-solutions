@@ -1,17 +1,21 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        if (nums.length==0)
-        {
-            return 0;
-        }
-        int k=1;
-        for (int i=1;i<nums.length;i++){
-            if(nums[i]!=nums[k-1])
-            {
-                nums[k]=nums[i];
-                k++;
+        int i = 0;
+
+        // j explores the array
+        for (int j = 1; j < nums.length; j++) {
+
+            // Found a new unique element
+            if (nums[i] != nums[j]) {
+
+                i++;
+
+                // Place the new unique element at the next position
+                nums[i] = nums[j];
             }
         }
-        return k;
+
+        // Number of unique elements
+        return i + 1;
     }
 }
