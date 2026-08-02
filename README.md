@@ -65,6 +65,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0001-two-sum](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -102,6 +104,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
