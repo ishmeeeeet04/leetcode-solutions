@@ -118,6 +118,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -143,4 +144,8 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
