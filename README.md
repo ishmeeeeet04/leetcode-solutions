@@ -78,6 +78,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0007-reverse-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -138,4 +139,8 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
