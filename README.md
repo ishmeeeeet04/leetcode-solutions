@@ -88,6 +88,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0136-single-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
