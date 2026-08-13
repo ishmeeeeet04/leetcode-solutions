@@ -94,6 +94,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -139,6 +140,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0013-roman-to-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -176,6 +178,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Matrix
 |  |
@@ -204,4 +207,16 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
