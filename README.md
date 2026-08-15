@@ -67,6 +67,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -110,6 +111,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0001-two-sum](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -135,6 +137,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -149,6 +152,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0013-roman-to-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
