@@ -73,6 +73,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0013-roman-to-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -235,4 +237,8 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
