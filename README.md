@@ -66,6 +66,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -129,6 +130,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0704-binary-search) |
