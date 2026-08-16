@@ -70,6 +70,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -140,6 +141,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -241,4 +243,8 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
