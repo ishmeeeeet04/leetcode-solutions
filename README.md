@@ -109,6 +109,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
