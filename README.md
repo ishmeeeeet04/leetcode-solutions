@@ -162,6 +162,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0008-string-to-integer-atoi](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -259,4 +260,12 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
