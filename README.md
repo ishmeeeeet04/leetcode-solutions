@@ -93,6 +93,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0009-palindrome-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -140,6 +141,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -165,6 +167,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0020-valid-parentheses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -203,6 +206,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
