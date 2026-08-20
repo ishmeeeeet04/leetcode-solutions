@@ -97,6 +97,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0504-base-7) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -177,6 +178,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0389-find-the-difference](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0504-base-7) |
@@ -207,6 +209,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0054-spiral-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
