@@ -84,6 +84,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0283-move-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -131,6 +132,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0409-longest-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -184,6 +186,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0504-base-7](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
