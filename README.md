@@ -282,4 +282,16 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
