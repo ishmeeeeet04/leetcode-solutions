@@ -79,6 +79,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0136-single-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -233,6 +234,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0054-spiral-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0733-flood-fill) |
 ## Heap (Priority Queue)
 |  |
@@ -272,6 +274,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
 | ------- |
@@ -317,6 +320,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -332,5 +336,6 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
