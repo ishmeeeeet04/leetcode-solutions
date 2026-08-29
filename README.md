@@ -88,6 +88,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -236,6 +237,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -338,4 +340,5 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0102-binary-tree-level-order-traversal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
