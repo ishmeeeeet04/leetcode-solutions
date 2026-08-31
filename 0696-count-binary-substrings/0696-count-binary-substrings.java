@@ -1,0 +1,36 @@
+class Solution {
+    public int countBinarySubstrings(String s) {
+        int prevGroup = 0;
+        int currGroup = 1;
+
+        int count = 0;
+
+        for (int i = 1; i < s.length(); i++) {
+
+            // same character
+            if (s.charAt(i)
+                == s.charAt(i - 1)) {
+
+                currGroup++;
+            }
+
+            // group changed
+            else {
+
+                count +=
+                    Math.min(prevGroup,
+                             currGroup);
+
+                prevGroup = currGroup;
+                currGroup = 1;
+            }
+        }
+
+        // last group pair
+        count +=
+            Math.min(prevGroup,
+                     currGroup);
+
+        return count;
+    }
+}
