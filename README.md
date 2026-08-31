@@ -95,6 +95,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0013-roman-to-integer) |
@@ -230,6 +231,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
 ## String Matching
 |  |
@@ -375,4 +377,8 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0207-course-schedule) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
