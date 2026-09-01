@@ -133,6 +133,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
@@ -182,6 +183,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -212,6 +214,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -382,4 +385,8 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
