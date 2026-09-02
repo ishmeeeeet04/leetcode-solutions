@@ -184,6 +184,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0125-valid-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -215,6 +216,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -341,6 +343,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0098-validate-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -389,4 +392,5 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
