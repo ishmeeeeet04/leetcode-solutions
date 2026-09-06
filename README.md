@@ -72,6 +72,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0053-maximum-subarray](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,6 +232,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0053-maximum-subarray](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -257,6 +259,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0695-max-area-of-island) |
