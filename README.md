@@ -84,6 +84,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0217-contains-duplicate](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -154,6 +155,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0033-search-in-rotated-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -235,6 +237,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0064-minimum-path-sum](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -414,4 +417,8 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0062-unique-paths) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
