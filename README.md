@@ -213,6 +213,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0696-count-binary-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -242,6 +243,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0300-longest-increasing-subsequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Simulation
 |  |
 | ------- |
