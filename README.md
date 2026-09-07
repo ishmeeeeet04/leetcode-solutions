@@ -338,6 +338,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0450-delete-node-in-a-bst](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0450-delete-node-in-a-bst](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0684-redundant-connection](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
