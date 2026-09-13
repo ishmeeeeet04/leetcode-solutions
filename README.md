@@ -96,6 +96,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0733-flood-fill](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0748-shortest-completing-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -225,6 +226,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0748-shortest-completing-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
