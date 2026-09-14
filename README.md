@@ -97,6 +97,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0748-shortest-completing-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -158,6 +159,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -227,6 +229,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0796-rotate-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -302,6 +305,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
