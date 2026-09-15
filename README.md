@@ -98,6 +98,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0804-unique-morse-code-words](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -136,6 +137,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0557-reverse-words-in-a-string-iii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -230,6 +232,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0804-unique-morse-code-words](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
