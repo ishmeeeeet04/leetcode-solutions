@@ -138,6 +138,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0680-valid-palindrome-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -274,6 +276,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
@@ -349,6 +352,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
