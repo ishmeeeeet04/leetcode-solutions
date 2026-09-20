@@ -163,6 +163,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0748-shortest-completing-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -237,6 +238,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0824-goat-latin](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
