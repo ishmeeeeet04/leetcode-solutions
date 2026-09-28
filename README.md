@@ -140,6 +140,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -243,6 +244,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0859-buddy-strings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
