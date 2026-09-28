@@ -99,6 +99,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0806-number-of-lines-to-write-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -167,6 +168,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -245,6 +247,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0884-uncommon-words-from-two-sentences](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
