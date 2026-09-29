@@ -100,6 +100,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0819-most-common-word](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -142,6 +143,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0844-backspace-string-compare](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0942-di-string-match) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -249,6 +251,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0925-long-pressed-name](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [0942-di-string-match](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -256,6 +259,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0409-longest-palindrome](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
