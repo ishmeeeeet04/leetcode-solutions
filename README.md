@@ -102,6 +102,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0859-buddy-strings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
@@ -254,6 +256,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
