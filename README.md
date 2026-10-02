@@ -101,6 +101,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0821-shortest-distance-to-a-character](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -252,6 +253,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0929-unique-email-addresses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -478,6 +480,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Knapsack Problem
 |  |
 | ------- |
