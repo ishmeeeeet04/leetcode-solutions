@@ -119,6 +119,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -191,6 +192,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0067-add-binary](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -307,6 +309,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
