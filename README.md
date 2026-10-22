@@ -125,6 +125,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
