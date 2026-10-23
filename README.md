@@ -217,6 +217,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0020-valid-parentheses) |
@@ -290,6 +291,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -312,6 +314,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0509-fibonacci-number) |
