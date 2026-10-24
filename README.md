@@ -315,6 +315,7 @@ Every solution in this repository represents a step toward becoming a better sof
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -481,6 +482,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Design
 |  |
 | ------- |
