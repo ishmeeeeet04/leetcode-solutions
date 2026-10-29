@@ -294,6 +294,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -347,6 +348,7 @@ Every solution in this repository represents a step toward becoming a better sof
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -491,6 +493,7 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Design
 |  |
@@ -528,4 +531,12 @@ Every solution in this repository represents a step toward becoming a better sof
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishmeeeeet04/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
